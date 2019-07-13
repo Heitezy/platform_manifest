@@ -4,26 +4,6 @@ Resurrection Remix OS Nougat Source 2019
 
 [Crowdin for translations](https://crowdin.com/project/resurrectionremix/)
 
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/resurrectionremix/localized.svg)](https://crowdin.com/project/resurrectionremix)
-
-
-Rom Downloads
-===================
-
-[Download Resurrection Remix OS](https://sourceforge.net/projects/resurrectionremix/files/?source=navbar)
-
-[![Download Resurrection Remix 
-OS](https://img.shields.io/sourceforge/dd/resurrectionremix.svg)](https://sourceforge.net/projects/resurrectionremix/files/)
-
-[![Download Resurrection Remix 
-OS](https://img.shields.io/sourceforge/dw/resurrectionremix.svg)](https://sourceforge.net/projects/resurrectionremix/files/)
-
-[![Download Resurrection Remix 
-OS](https://img.shields.io/sourceforge/dm/resurrectionremix.svg)](https://sourceforge.net/projects/resurrectionremix/files/)
-
-[![Download Resurrection Remix 
-OS](https://img.shields.io/sourceforge/dt/resurrectionremix.svg)](https://sourceforge.net/projects/resurrectionremix/files/)
-
 Getting Started
 ---------------
 To get started with building from Resurrection Remix sources, you'll need to get
@@ -31,20 +11,6 @@ familiar with [Establishing a build environment](http://source.android.com/sourc
 
 How to build Resurrection Remix ROM for your device - Tutorial
 --------
-### New way to set up and build Resurrection Remix.
-
-##### Refer to [scripts](https://github.com/akhilnarang/scripts) to setup build env
-
-Once done, the source code should be already set up and you can head on to build RR by using the build script in the root of source code
- 
-so simply copy and paste this in a terminal window:
-
-     $ bash build.sh
-
----
-
-### Old way to set up and build Resurrection Remix.
-
 ### Build Environment
 
 - Tested and Working on any version of Ubuntu - 14.04,14.10,15.04 (64-bit)
