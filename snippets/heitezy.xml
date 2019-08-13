@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="android" name="platform_manifest" remote="heitezy" />
+  <project path="vendor/cmsdk" name="cm_platform_sdk" remote="heitezy" />
+  <project path="vendor/cm" name="android_vendor_resurrection" remote="heitezy" />
+  <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="heitezy" />
+  <project path="packages/apps/Dialer" name="android_packages_apps_Dialer" remote="heitezy" />
+  <project path="packages/apps/Contacts" name="android_packages_apps_Contacts" remote="heitezy" />
+  <project path="packages/apps/ContactsCommon" name="android_packages_apps_ContactsCommon" remote="heitezy" />
+  <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="heitezy" />
+  <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="heitezy" />
+  <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="heitezy" />
+  <project path="frameworks/av" name="frameworks_av" remote="heitezy" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="heitezy" />
+  <project path="packages/apps/Settings" name="Resurrection_packages_apps_Settings" remote="heitezy" />
+  <project path="external/skia" name="external_skia" remote="heitezy" />
+  <project path="frameworks/native" name="frameworks_native" remote="heitezy" />
+  <project path="system/core" name="system_core" remote="heitezy" />
+  <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="heitezy" />
+
+  <!-- OmniRom additions -->
+  <project name="packages_services_OmniJaws" path="packages/services/OmniJaws" remote="heitezy" />
+
+</manifest>
