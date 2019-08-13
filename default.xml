@@ -27,7 +27,7 @@
 	   revision="nougat" />
 
   <!-- AOSP Projects -->
-  <project path="build" name="android_build" remote="rr" >
+  <project path="build" name="android_build" remote="heitezy" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" remote="aosp" />
@@ -495,5 +495,6 @@
 
   <include name="snippets/rr-n.xml" />
   <include name="snippets/cm.xml" />
+  <include name="snippets/heitezy.xml" />
 
 </manifest>
